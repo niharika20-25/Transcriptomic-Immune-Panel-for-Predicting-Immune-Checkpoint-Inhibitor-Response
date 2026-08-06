@@ -1,0 +1,13 @@
+{
+  "n_train": 8542,
+  "n_genes": 47,
+  "cv_accuracy": 0.7337859985951768,
+  "cv_accuracy_lo": 0.7246517209084524,
+  "cv_accuracy_hi": 0.743037344884102,
+  "balanced_accuracy": 0.6809980870009071,
+  "unsup_ari": 0.11007887953156072,
+  "logrank_p": 3.809766148835202e-72,
+  "cox_hr": 0.6521230785941906,
+  "cox_p": 3.144996443125207e-26,
+  "cancer_types": null
+}
