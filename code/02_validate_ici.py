@@ -9,7 +9,7 @@
 #
 # PRIMARY cohort: IMvigor210 (atezolizumab, urothelial, Mariathasan
 #   2018 Nature). Export it once with export_imvigor210.R -> 2 CSVs.
-# You can add ANY extra cohort as CSVs with the same 2-file format
+
 # (see COHORTS below): a melanoma anti-PD-1 set (Hugo/Riaz/Liu) etc.
 # ============================================================
 import warnings; warnings.filterwarnings("ignore")
